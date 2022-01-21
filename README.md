@@ -13,8 +13,8 @@ Hi, my name is Alper and I'm 16. I started software development 1 year ago with 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/902496954913783830" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/ViestaJS" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.com/users/902496954913783830" target="_blank"><img src="https://shields.io/badge/ViestaJS-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/ViestaJS" target="_blank"><img src="https://shields.io/badge/Viesta-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
